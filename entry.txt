@@ -1,0 +1,1 @@
+Monday: deploy stuck at 99%, inbox at 400, and stand-up asked how I feel. I feel 500 Internal Server Error.
